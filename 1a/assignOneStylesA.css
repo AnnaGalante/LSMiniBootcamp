@@ -1,0 +1,28 @@
+html, body{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background: #FFE066;
+}
+.redTop{
+	background: #F25F5C;
+	height: 50px;
+	width: 100%;
+	margin: 0px;
+}
+.blueBody{
+	background: #247BA0;
+	height: 100%;
+	width: 75%;
+	margin: auto;
+	position: auto;
+}
+.bottomGreen{
+	background: #70C1B3;
+	width: 75%;
+	height: 50px;
+	position: absolute;
+	bottom: 0px;
+}
