@@ -4,7 +4,7 @@ html, body{
 	padding: 0px;
 }
 body{
-	background: #FFE066;
+	background: lime; /* to test */
 }
 .redTop{
 	background: #F25F5C;
@@ -15,13 +15,27 @@ body{
 .blueBody{
 	background: #247BA0;
 	height: 100%;
-	width: 75%;
+	width: 33.3%;
 	margin: auto;
-	position: auto;
+	float: left;
+}
+.purpleBody{
+	background: #8e44ad;
+	height: 100%;
+	width: 33.3%;
+	margin: auto;
+	float: left;
+}
+.yellowBody{
+	background: #FFE066;
+	height: 100%;
+	width: 33.4%;
+	margin: auto;
+	float: left;
 }
 .bottomGreen{
 	background: #70C1B3;
-	width: 75%;
+	width: 100%;
 	height: 50px;
 	position: absolute;
 	bottom: 0px;
