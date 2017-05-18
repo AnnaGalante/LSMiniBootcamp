@@ -16,6 +16,7 @@ body{
 	background: #c0392b;
 	height: 100%;
 	width: 70%;
+	min-width: 550px;
 	margin: auto;
 	position: auto;
 	padding: 20px;
@@ -24,7 +25,7 @@ body{
 }
 .blueContentBlock{
 	background: #3498db;
-	width: 70%;
+	width: 500px;
 	height: auto;
 	margin-bottom: 20px;
 	display: inline-block;
@@ -42,8 +43,8 @@ body{
 .greenBlock{
 	background: #27ae60;
 	height: 150px;
-	width: 50%;
+	width: 320px;
 	display: inline-block;
 	vertical-align: top;
-	margin: 20px 0px 20px 0px;
+	margin: 20px 20px 20px 0px;
 }
